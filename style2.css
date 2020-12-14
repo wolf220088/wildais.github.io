@@ -1,0 +1,115 @@
+
+
+body {
+	font: 16px/28px arial, sans-serif;
+	background-image: url(Cloud.jpg);
+}
+
+.container {
+	width: 1000px;
+	margin: auto;
+	background-color: white;
+}
+
+.header {
+	background-color: cadetblue;
+	background-attachment: fixed;
+	padding: 20px
+
+}
+
+.header .judul {
+	font-size: 40px;
+	font-weight: bold;
+	color: white
+}
+
+.header ul li {
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+.header a {
+
+	text-decoration: none;
+	color: darkblue;
+	padding: 5px
+}
+
+.header a:hover {
+	background-color: white;
+	color: aqua;
+}
+
+.home {
+	height: 300px;
+	background-size: cover;
+	background-position: 0px;
+	border-bottom: 10px pink;
+	border-top: 10px pink;
+}
+
+.content {
+	padding: 20px;
+}
+
+.content h2 {
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.content .isi {
+	font-size: 11px;
+}
+
+.footer {
+	background-color: darkblue;
+	padding: 10px
+}
+
+.footer .copy {
+	color: white;
+	text-align: center;
+	font-size: 12px;
+}
+.foto {
+	height: 300px;
+	background-image: url(profil.jpg);
+	background-size: initial;
+	background-position: 0px;
+	
+}
+.foto {
+	height: 500px;
+	background-image: url(profil.jpg);
+	background-size: 500px;
+	background-position: 0px;
+	
+}
+.foto2 {
+	height: 500px;
+	background-image: url(1.jpg);
+	background-size: 500px;
+	background-position: 0px;
+	
+}
+.foto3 {
+	height: 500px;
+	background-image: url(2.jpg);
+	background-size: 500px;
+	background-position: 0px;
+	
+}.foto4 {
+	height: 500px;
+	background-image: url(3.jpg);
+	background-size: 500px;
+	background-position: 0px;
+	
+}.foto5 {
+	height: 500px;
+	background-image: url(4.jpg);
+	background-size: 500px;
+	background-position: 0px;
+	
+}
